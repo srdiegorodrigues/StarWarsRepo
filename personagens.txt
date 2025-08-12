@@ -2,5 +2,4 @@ Luke Skywalker
 Obi Wan Kenobi
 Princesa Lea
 Han Solo
-C3Po
 Master Yoda
